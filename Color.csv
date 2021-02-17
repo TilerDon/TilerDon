@@ -1,0 +1,9 @@
+Code,Colour,Number,GreyScale
+R,RED,0xfff50707,
+B,BLUE,0xff1b07f5,
+Y,YELLOW,0xfff1f507,
+G,GREEN,0x7f0e9e11,
+GR,GREY,0x9fe6eaf0,
+BL,BLACK,0,0
+W,WHITE,,255
+MG,MIDGREY,,127
